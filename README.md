@@ -1,10 +1,11 @@
-# **Black Jack**
+# Black Jack
 
 This is a Python project I made while learning Python.
 
 **What it does**
 
 Create a game of terminal blackjack against the computer!
+
 **Features**
 
 * Scoring system.
