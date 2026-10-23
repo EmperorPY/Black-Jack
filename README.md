@@ -27,4 +27,4 @@ Python.
 
 **Future improvements**
 
-* Game rules menu.
+* UI
