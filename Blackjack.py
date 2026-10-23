@@ -2,6 +2,8 @@ import random
 
 print("Welcome to Blackjack.\n")
 
+print("Closest to 21 wins, go over you lose, get beaten by the dealer you lose.\nGood luck!")
+
 cards = {
     "Ace": 11,
     "2": 2,
